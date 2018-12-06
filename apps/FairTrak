@@ -1,0 +1,25 @@
+name: FairTrak
+description: 'FairTrak is an Employee Monitoring Software for managers. It is a comprehensive software that allows companies to improve the productivity and efficiency of their employees by allowing them to analyze peoples’ activities, learn their behavior and recognize the scope of improvement.'
+website: 'https://www.fairtrak.com/'
+category: Business
+keywords:
+    - 'Employee Monitoring Software'
+    - 'Employee Monitoring Tool'
+    - 'Employee Monitoring Software 2018'
+    - 'Employee Activity Monitor'
+    - 'Real Time Employee Tracking System'
+    - 'Best Employee Monitoring Software'
+    - 'Top Employee Monitoring Software'
+    - 'Office Employee Monitoring'
+    - 'Employee Monitoring Software Windows'
+    - 'Employee Activity Tracker'
+license: Commercial
+screenshots:
+    -
+        imageUrl: 'https://www.fairtrak.com/images/slide3.png'
+        caption: 'Employee Monitoring Software'
+        imageLink: 'https://www.fairtrak.com/features.html'
+    -
+        imageUrl: 'https://www.fairtrak.com/images/slide5.png'
+        caption: 'Employee Monitoring Software 2018'
+        imageLink: 'https://www.fairtrak.com'
